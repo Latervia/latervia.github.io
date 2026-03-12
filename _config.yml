@@ -16,7 +16,7 @@ markdown: kramdown
 highlighter: rouge
 
 # 文章URL结构
-permalink: /:title/
+permalink: /:title
 
 # 分页设置
 paginate: 10
